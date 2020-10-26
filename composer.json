@@ -1,5 +1,5 @@
 {
-    "name": "funkjedi/composer-include-files",
+    "name": "yurunsoft/composer-include-files",
     "type": "composer-plugin",
     "description": "Include files at a higher priority than autoload files.",
     "keywords": ["composer", "autoload"],
